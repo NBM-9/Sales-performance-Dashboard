@@ -1,25 +1,50 @@
-# 📊 Sales Performance Dashboard
+# 📊 Sales Performance Dashboard (Power BI)
 
-Author: Namo bhavani Maganti
+This project showcases a Sales Performance Dashboard built using Power BI. It helps analyze total sales, units sold, average unit price, and performance across product categories and stores.
 
-## Overview
-This Power BI dashboard visualizes sales performance metrics using sample retail data. It includes insights on regional sales, customer types, and product categories.
+---
 
-## Tools Used
+## 📁 Files Included
+- `SalesPerformanceDashboard.pbix` – Power BI dashboard file
+- `SalesData.xlsx` – Dataset used in the dashboard
+- `Dashboard_Screenshots/` – Images of the final dashboard
+
+---
+
+## 🔍 Dashboard KPIs
+- **Total Sales**
+- **Total Units Sold**
+- **Average Unit Price**
+
+## 📈 Visualizations
+- Sales by Category
+- Units by Store Type
+- Average Price by Product
+- Market Share Pie Chart
+
+---
+
+## 📷 Screenshots
+
+| KPI Cards | Charts |
+|-----------|--------|
+| ![KPI Cards](Dashboard_Screenshots/kpi.png) | ![Bar Chart](Dashboard_Screenshots/barchart.png) |
+
+---
+
+## 🚀 How to Run
+1. Download the `.pbix` file
+2. Open in **Power BI Desktop**
+3. View and interact with the dashboard
+
+---
+
+## 🛠️ Tools Used
 - Power BI
-- Excel
-- DAX (optional KPIs)
+- Excel (for raw data)
 
-## KPIs & Visuals
-- Total Sales by Region
-- Sales Trends Over Time
-- Product-wise Sales Distribution
-- Sales by Customer Type
-- Summary Cards (Total Sales, Units, Avg. Price)
+---
 
-## Purpose
-This is a personal project for portfolio development and skill demonstration. Dataset is fictional, created for practice.
-
-## Preview
-_Add screenshot here once your dashboard is done._
-
+## 👩‍💻 Author
+Namobhavani Maganti 
+https://www.linkedin.com/in/namomaganti/ 
